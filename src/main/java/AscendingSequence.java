@@ -8,6 +8,7 @@ public class AscendingSequence {
                 if (start <= end) {
                     result[i] = start;
                     start += step;
+
                 }
             }
 
